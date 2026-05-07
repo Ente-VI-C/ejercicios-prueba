@@ -37,5 +37,5 @@ while True:
      else:
             print("Error, ingrese numeros validos")    
  except ValueError:
-           print("Error")
+           print("Error, ingrese numeros" )
 descuento()   
